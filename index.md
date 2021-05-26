@@ -1,37 +1,88 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>试卷</title>
+</head>
+<body>
+<div>
+    <h1>第一天单词</h1>
+</div>
+<div>
+    <div>时间：10分钟</div>
+    <div><label for="score">得分：</label><input type="text" id="score"></div>
+</div>
+<div>
+    <h4>填空题（每空1分，共15分）</h4>
+    <ol>
+        <li>
+            <span> endure：</span>
+            <div><input type="text" id="fillBlank-1"></div>
+        </li>
+        <li>
+            <span> mental：</span>
+            <div><input type="text" id="fillBlank-1"></div>
+        </li>
+        <li>
+            <span> domestic：</span>
+            <div><input type="text" id="fillBlank-1"></div>
+        </li>
+        <li>
+            <span> propaganda：</span>
+            <div><input type="text" id="fillBlank-1"></div>
+        </li>
+        <li>
+            <span> urge：</span>
+            <div><input type="text" id="fillBlank-1"></div>
+        </li>
+        <li>
+            <span> despise：</span>
+            <div><input type="text" id="fillBlank-1"></div>
+        </li>
+        <li>
+            <span> suicide：</span>
+            <div><input type="text" id="fillBlank-1"></div>
+        </li>
+        <li>
+            <span> purchase：</span>
+            <div><input type="text" id="fillBlank-1"></div>
+        </li>
+        <li>
+            <span> sturdy：</span>
+            <div><input type="text" id="fillBlank-1"></div>
+        </li>
+        <li>
+            <span> monarch：</span>
+            <div><input type="text" id="fillBlank-1"></div>
+        </li>
+        <li>
+            <span> specialist：</span>
+            <div><input type="text" id="fillBlank-1"></div>
+        </li>
+        <li>
+            <span> layman：</span>
+            <div><input type="text" id="fillBlank-1"></div>
+        </li>
+        <li>
+            <span> guarantee：</span>
+            <div><input type="text" id="fillBlank-1"></div>
+        </li>
+        <li>
+            <span> extravagant：</span>
+            <div><input type="text" id="fillBlank-1"></div>
+        </li>
+        <li>
+            <span> sufficient：</span>
+            <div><input type="text" id="fillBlank-1"></div>
+        </li>	
+        
+    </ol>
+</div>
+<div>
 
-You can use the [editor on GitHub](https://github.com/zjk0803/words/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zjk0803/words/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<div>
+    <button type="submit">计算分数</button>
+</div>
+</body>
+</html>
